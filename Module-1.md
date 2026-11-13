@@ -285,3 +285,12 @@ Can binary search work correctly on an unsorted array? Why or why not?
 
 ## ☕ Beyond the Code
 If two people reach the same destination, but one takes a direct road and the other takes every possible detour, did they solve the journey equally well?
+
+
+## Standalone C examples
+
+- [`arrays.c`](arrays.c) — traversal, insertion, deletion, linear and binary search.
+- [`matrix_operations.c`](matrix_operations.c) — matrix addition and multiplication.
+- [`sparse_matrix_triplet.c`](sparse_matrix_triplet.c) — triplet representation.
+- [`string_operations.c`](string_operations.c) — length, compare, copy, concatenate.
+- [`brute_force_pattern.c`](brute_force_pattern.c) — naive pattern matching.
